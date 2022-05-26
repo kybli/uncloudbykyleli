@@ -1,0 +1,9 @@
+*.txt
+logs
+snapshots
+masks
+.idea
+large_masks
+*.jpg
+*.pth
+__pycache__
